@@ -1,4 +1,4 @@
-# 👁 Defer Vision
+# Defer Vision
 
 > **AI-powered video monitoring. Describe what matters — get alerted when it happens.**
 
@@ -30,16 +30,16 @@ Camera feed  →  Scene change detection  →  VLM description  →  Relevance c
 
 ## Features
 
-- 🎯 Natural language triggers — no ML expertise needed
-- 📷 Multiple cameras per account
-- ⚡ Real-time alerts, no page reload
-- 🖼 Frame snapshot saved for every alert
+- Natural language triggers — no ML expertise needed
+- Multiple cameras per account
+- Real-time alerts, no page reload
+- Frame snapshot saved for every alert
 
 ---
 
 ## Status
 
-🚧 **MVP in development**
+**MVP in development**
 
 ---
 
