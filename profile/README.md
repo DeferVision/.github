@@ -1,8 +1,6 @@
 # 👁 Defer Vision
 
 > **AI-powered video monitoring. Describe what matters — get alerted when it happens.**
->
-> **Система мониторинга видео на базе ИИ. Опишите что важно — получайте уведомления когда это происходит.**
 
 ---
 
@@ -16,21 +14,10 @@ Instead of recording everything and reviewing footage manually, you simply descr
 
 ---
 
-## Что такое Defer Vision?
-
-Defer Vision — система интеллектуального видеомониторинга, которая анализирует потоки с камер вместо вас.
-
-Вместо того чтобы записывать всё подряд и вручную просматривать видео — просто опишите события, о которых хотите знать. Система непрерывно анализирует видеопоток и отправляет аларм в тот момент, когда описанное событие появляется в кадре.
-
-**Примеры триггеров:** `спит за столом` · `курит` · `использует телефон` · `появилось животное` · `человек упал`
-
----
-
-## How it works / Как это работает
+## How it works
 
 ```
 Camera feed  →  Scene change detection  →  VLM description  →  Relevance check  →  Alert
-Видеопоток   →  Детекция изменения сцены →  Описание VLM    →  Проверка триггера →  Аларм
 ```
 
 1. **Video capture** — connects to IP cameras or local webcams
@@ -41,28 +28,24 @@ Camera feed  →  Scene change detection  →  VLM description  →  Relevance c
 
 ---
 
-## Features / Возможности
+## Features
 
-| | EN | RU |
-|---|---|---|
-| 🎯 | Natural language triggers — no ML expertise needed | Триггеры на естественном языке — без знания ML |
-| 📷 | Multiple cameras per account | Несколько камер на один аккаунт |
-| ⚡ | Real-time alerts, no page reload | Алармы в реальном времени |
-| 🖼 | Frame snapshot saved for every alert | Кадр события сохраняется для каждого аларма |
+- 🎯 Natural language triggers — no ML expertise needed
+- 📷 Multiple cameras per account
+- ⚡ Real-time alerts, no page reload
+- 🖼 Frame snapshot saved for every alert
 
 ---
 
-## Status / Статус
+## Status
 
-🚧 **MVP in development / MVP в разработке**
+🚧 **MVP in development**
 
 ---
 
-## Team / Команда
+## Team
 
 Built by a small team as part of a university project.
-
-Проект разрабатывается небольшой командой в рамках учебного проекта.
 
 ---
 
